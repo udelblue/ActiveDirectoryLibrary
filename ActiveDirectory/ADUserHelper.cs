@@ -8,7 +8,7 @@ using System.Collections;
 
 namespace ActiveDirectoryHelper
 {
-    public class ADHelper
+    public class ADUserHelper
     {
 
         private DirectoryEntry _directoryEntry = null;
@@ -25,6 +25,15 @@ namespace ActiveDirectoryHelper
             }
         }
         
+
+
+
+
+
+
+
+
+
 
         /// <summary>
         /// Authenticate a User Against the Directory domain in app.config
