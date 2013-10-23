@@ -46,7 +46,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ADConfig.cs" />
-    <Compile Include="ADHelper.cs" />
+    <Compile Include="ADObjectHelper.cs" />
+    <Compile Include="ADUserHelper.cs" />
     <Compile Include="ADUserManager.cs" />
     <Compile Include="ADManager.cs" />
     <Compile Include="ADProperties.cs" />
